@@ -20,4 +20,4 @@ const arr = array();
 
 arr.push("first");
 
-console.log(arr.get(0));
+console.log(arr.get(0));//first
